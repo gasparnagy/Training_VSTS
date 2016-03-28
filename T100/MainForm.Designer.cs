@@ -102,7 +102,7 @@ namespace T100
             this.messageTextBox.Name = "messageTextBox";
             this.messageTextBox.Size = new System.Drawing.Size(256, 61);
             this.messageTextBox.TabIndex = 16;
-            this.messageTextBox.Text = "Welcome to Microsoft University";
+            this.messageTextBox.Text = "Welcome to the VSTS course";
             // 
             // decrButton
             // 
